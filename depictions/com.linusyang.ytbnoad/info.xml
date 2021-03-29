@@ -1,0 +1,23 @@
+<package>
+	<id>com.linusyang.ytbnoad</id>
+	<name>YouTubeNoAds</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>10.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>YouTubeNoAds</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
