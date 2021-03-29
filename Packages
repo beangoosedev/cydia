@@ -30,7 +30,6 @@ Package: com.linusyang.ytbnoad
 Version: 0.1
 Section: Tweaks
 Maintainer: TEST
-Depends: firmware (<10.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
 Size: 49400
