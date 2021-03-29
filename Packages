@@ -32,7 +32,7 @@ Section: Tweaks
 Maintainer: TEST
 Architecture: iphoneos-arm
 Filename: ./debs/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
-Size: 49400
+Size: 50654
 MD5sum: 39e43deaa545fc126991b2fe2343d4c4
 Description: YouTubeNoAds
 Name: YouTubeNoAds
